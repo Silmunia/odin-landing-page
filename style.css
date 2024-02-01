@@ -1,0 +1,14 @@
+.header {
+    display: flex;
+    width: 800px;
+    align-items: center;
+    justify-content: space-between;
+    flex: 1 1 auto;
+}
+
+ul {
+    display: flex;
+    padding: 0px;
+    list-style: none;
+    gap: 16px;
+}
