@@ -13,6 +13,15 @@ ul {
     gap: 16px;
 }
 
+.intro {
+    display: flex;
+    align-items: center;
+}
+
+.intro-container {
+    width: 400px;
+}
+
 .info-container {
     display: flex;
 }
