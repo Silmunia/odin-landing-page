@@ -30,3 +30,8 @@ ul {
     width: 200px;
     text-align: center;
 }
+
+.action {
+    display: flex;
+    align-items: center;
+}
