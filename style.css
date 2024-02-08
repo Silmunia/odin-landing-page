@@ -12,3 +12,12 @@ ul {
     list-style: none;
     gap: 16px;
 }
+
+.info-container {
+    display: flex;
+}
+
+.info-image {
+    width: 200px;
+    text-align: center;
+}
