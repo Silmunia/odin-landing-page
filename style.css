@@ -33,6 +33,23 @@ body {
     width: 400px;
 }
 
+.intro-container h1 {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: bolder;
+}
+
+.intro-container p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.intro-container button {
+    border-radius: 6px;
+    border-style: none;
+    background-color: #3882F6;
+}
+
 .info-container {
     display: flex;
 }
