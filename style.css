@@ -71,6 +71,13 @@ body {
     width: 500px;
 }
 
+.quote h1 {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: lighter;
+    font-style: italic;
+}
+
 .action {
     display: flex;
     align-items: center;
