@@ -1,13 +1,18 @@
 body {
     font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: space-around;
+    margin: 0px;
 }
 
 .header {
     display: flex;
-    width: 800px;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
     flex: 1 1 auto;
+    background-color: #1F2937;
 }
 
 .header h1 {
