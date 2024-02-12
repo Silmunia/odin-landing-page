@@ -82,3 +82,25 @@ body {
     display: flex;
     align-items: center;
 }
+
+.action-text h1 {
+    font-size: 18px;
+    font-weight: bolder;
+    color: #E5E7EB;
+}
+
+.action-text p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.action button {
+    border-radius: 6px;
+    border-style: none;
+    background-color: #3882F6;
+}
+
+.footer {
+    font-size: 18px;
+    color: #E5E7EB;
+}
