@@ -50,6 +50,12 @@ body {
     background-color: #3882F6;
 }
 
+.information h1 {
+    font-size: 36px;
+    font-weight: bolder;
+    font-color: #1F2937;
+}
+
 .info-container {
     display: flex;
 }
@@ -57,6 +63,8 @@ body {
 .info-image {
     width: 200px;
     text-align: center;
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
 .quote {
