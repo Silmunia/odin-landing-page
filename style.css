@@ -53,7 +53,7 @@ body {
 .information h1 {
     font-size: 36px;
     font-weight: bolder;
-    font-color: #1F2937;
+    color: #1F2937;
 }
 
 .info-container {
