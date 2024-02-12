@@ -10,11 +10,18 @@ body {
     flex: 1 1 auto;
 }
 
-ul {
+.header h1 {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.header ul {
     display: flex;
     padding: 0px;
     list-style: none;
     gap: 16px;
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
 .intro {
