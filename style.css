@@ -74,12 +74,12 @@ body {
     margin: 0px;
 }
 
-.intro-text button {
+.button {
     border-radius: 6px;
     border-style: none;
-    background-color: #3882F6;
     padding: 4px 24px;
     color: #E5E7EB;
+    background-color: #3882F6;
     width: 95px;
 }
 
@@ -174,12 +174,8 @@ body {
     margin: 0px;
 }
 
-.action button {
-    padding: 4px 24px;
-    border-radius: 6px;
-    color: #E5E7EB;
+.action .button {
     border-style: solid;
-    background-color: #3882F6;
 }
 
 .footer {
