@@ -84,24 +84,42 @@ body {
 }
 
 .action {
+    flex: 1 1 auto;
+    margin: 60px 340px;
     display: flex;
     align-items: center;
+    justify-content: center;
+}
+
+.action-content {
+    height: 100px;
+    width: 700px;
+    flex: 1 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #3882F6;
+    border-radius: 6px;
 }
 
 .action-text h1 {
     font-size: 18px;
     font-weight: bolder;
     color: #E5E7EB;
+    margin: 0px;
 }
 
 .action-text p {
     font-size: 18px;
     color: #E5E7EB;
+    margin: 0px;
 }
 
 .action button {
+    padding: 4px 24px;
     border-radius: 6px;
-    border-style: none;
+    color: #E5E7EB;
+    border-style: solid;
     background-color: #3882F6;
 }
 
