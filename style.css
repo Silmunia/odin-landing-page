@@ -55,21 +55,35 @@ body {
     background-color: #3882F6;
 }
 
+.information {
+    margin-bottom: 80px;
+}
+
 .information h1 {
     font-size: 36px;
     font-weight: bolder;
     color: #1F2937;
+    text-align: center;
+    margin-bottom: 40px;
 }
 
 .info-container {
     display: flex;
+    justify-content: center;
+    gap: 60px;
 }
 
 .info-image {
-    width: 200px;
+    width: 150px;
     text-align: center;
-    font-size: 18px;
-    color: #E5E7EB;
+    font-size: 16px;
+    color: #1F2937;
+}
+
+.info-image img {
+    border-style: solid;
+    border-color: #3882F6;
+    border-radius: 6px;
 }
 
 .quote {
