@@ -7,6 +7,11 @@ body {
     margin: 0px;
 }
 
+.white-18-text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
 .header {
     display: flex;
     align-items: center;
@@ -25,8 +30,6 @@ body {
     padding: 0px;
     list-style: none;
     gap: 16px;
-    font-size: 18px;
-    color: #E5E7EB;
 }
 
 .intro {
@@ -69,8 +72,6 @@ body {
 }
 
 .intro-text p {
-    font-size: 18px;
-    color: #E5E7EB;
     margin: 0px;
 }
 
@@ -162,15 +163,11 @@ body {
 }
 
 .action-text h1 {
-    font-size: 18px;
     font-weight: bolder;
-    color: #E5E7EB;
     margin: 0px;
 }
 
 .action-text p {
-    font-size: 18px;
-    color: #E5E7EB;
     margin: 0px;
 }
 
@@ -179,8 +176,6 @@ body {
 }
 
 .footer {
-    font-size: 18px;
-    color: #E5E7EB;
     background-color: #1F2937;
     text-align: center;
 }
