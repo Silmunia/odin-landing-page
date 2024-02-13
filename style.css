@@ -38,7 +38,7 @@ body {
     background-color: #1F2937;
     align-items: center;
     justify-content: center;
-    padding: 0px 100px;
+    padding: 0px 110px;
 }
 
 .intro-container {
@@ -48,6 +48,7 @@ body {
     flex: 1 0 auto;
     align-items: center;
     justify-content: space-around;
+    gap: 20px;
 }
 
 .intro-container img {
