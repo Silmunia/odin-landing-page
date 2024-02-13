@@ -73,14 +73,31 @@ body {
 }
 
 .quote {
-    width: 500px;
+    display: flex;
+    flex: 1 1 auto;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 0px;
 }
 
 .quote h1 {
+    flex: 1 0 auto;
+    width: 670px;
     font-size: 36px;
     color: #1F2937;
     font-weight: lighter;
     font-style: italic;
+    margin: 0px;
+}
+
+.quote p {
+    flex: 1 0 auto;
+    width: 670px;
+    font-size: 18px;
+    text-align: right;
+    margin: 0px;
 }
 
 .action {
